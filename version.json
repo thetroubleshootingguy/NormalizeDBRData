@@ -1,0 +1,191 @@
+{
+  "requestMillis": {
+    "count": 1012,
+    "min": 0,
+    "max": 16236,
+    "sum": 28878,
+    "avg": 28,
+    "distributionCounter": {
+      "1": 4,
+      "5": 257,
+      "10": 430,
+      "50": 306,
+      "100": 11,
+      "200": 1,
+      "9223372036854775807": 3
+    }
+  },
+  "requestCount": {
+    "count": 1012,
+    "min": 1,
+    "max": 10,
+    "sum": 10040,
+    "avg": 9,
+    "distributionCounter": {
+      "1": 2,
+      "10": 1010,
+      "100": 0,
+      "1000": 0
+    }
+  },
+  "requestPercent": {
+    "count": 1012,
+    "min": 0,
+    "max": 96,
+    "sum": 1247,
+    "avg": 1,
+    "distributionCounter": {
+      "1": 761,
+      "3": 199,
+      "5": 31,
+      "10": 14,
+      "20": 4,
+      "30": 0,
+      "9223372036854775807": 3
+    }
+  },
+  "incrementIssueVersionMillis": {
+    "count": 3012,
+    "min": 0,
+    "max": 637,
+    "sum": 8962,
+    "avg": 2,
+    "distributionCounter": {}
+  },
+  "incrementCommentVersionMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "incrementWorklogVersionMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "incrementRelatedCommentVersionsMillis": {
+    "count": 1003,
+    "min": 0,
+    "max": 29,
+    "sum": 636,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "incrementRelatedWorklogVersionsMillis": {
+    "count": 1003,
+    "min": 0,
+    "max": 39,
+    "sum": 554,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "markIssueDeletedAndIncrementVersionMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "markCommentDeletedAndIncrementVersionMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "markWorklogDeletedAndIncrementVersionMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "getIssueVersionMillis": {
+    "count": 6037,
+    "min": 0,
+    "max": 34,
+    "sum": 1564,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "getCommentVersionMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "getWorklogVersionMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "getRelatedCommentVersionsMillis": {
+    "count": 1014,
+    "min": 0,
+    "max": 27,
+    "sum": 457,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "getRelatedWorklogVersionsMillis": {
+    "count": 1014,
+    "min": 0,
+    "max": 27,
+    "sum": 593,
+    "avg": 0,
+    "distributionCounter": {}
+  },
+  "getLocalVersionsMillis": {
+    "count": 0,
+    "min": 0,
+    "max": 0,
+    "sum": 0,
+    "avg": 0,
+    "distributionCounter": {
+      "1": 0,
+      "5": 0,
+      "10": 0,
+      "50": 0,
+      "100": 0,
+      "500": 0,
+      "1000": 0
+    }
+  },
+  "markEntityDeletedAndIncrementVersionMillis": {
+    "count": 2,
+    "min": 2,
+    "max": 5,
+    "sum": 7,
+    "avg": 3,
+    "distributionCounter": {}
+  },
+  "cleanDeletedIssueVersionMillis": {
+    "count": 2,
+    "min": 18,
+    "max": 16225,
+    "sum": 16243,
+    "avg": 8121,
+    "distributionCounter": {}
+  },
+  "cleanAllDeletedEntityVersionsOlderThanMillis": {
+    "count": 2,
+    "min": 3,
+    "max": 56,
+    "sum": 59,
+    "avg": 29,
+    "distributionCounter": {}
+  }
+}
